@@ -1,4 +1,4 @@
-# ColinG_Portfolio
+# Colin Glory Portfolio
 
 # [Project 1: Software Engineering - Website](https://github.com/gloryc34/ChrisParrattoPainting.com.git)
 * Five member team.
