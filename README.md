@@ -15,6 +15,6 @@
 * The data is based off of Alzheimer's data that is from surveys.
 * Python, Tableau, and Microsoft Excel were used.
 
-![](https://github.com/gloryc34/ColinG_Portfolio/blob/main/images/overall_health_prediction_2021.png)
+![](/images/overall_health_prediction_2021.png)
 
 ![](/images/SURVEYED_STATE.png)
