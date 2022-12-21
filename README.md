@@ -1,6 +1,6 @@
 # ColinG_Portfolio
 
-# Project 1: Software Engineering - Website
+# [Project 1: Software Engineering - Website](https://github.com/gloryc34/ChrisParrattoPainting.com.git)
 * Five member team
 * Creation of a new website for Chris Parratto's company, ChrisParrattoPainting.
 * Assisted in the back-end side (SQL & PHP)
