@@ -29,7 +29,7 @@
 
 ![](/images/tas2.png)
 
-# [Project 4: Memory Address Editing - NES ROM]([https://github.com/gloryc34/Memory-Editing.git)
+# [Project 4: Memory Address Editing - NES ROM](https://github.com/gloryc34/Memory-Editing.git)
 * Choose a NES game
 * Locate a game feature that can be manipulated
 * Use RAM search tool on NESHawk to find the location of the feature
