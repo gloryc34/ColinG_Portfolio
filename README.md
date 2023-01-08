@@ -1,4 +1,4 @@
-# Colin Glory Portfolio
+# Projects
 
 # [Project 1: Software Engineering - Website](https://github.com/gloryc34/ChrisParrattoPainting.com.git)
 * Five member team.
@@ -18,3 +18,10 @@
 ![](/images/overall_health_prediction_2021.png)
 
 ![](/images/SURVEYED_STATE.png)
+
+#[Project 3: Memory Address Editing - NES ROM]
+* Download and configure TAS (Tool-assisted Speedrun)
+* Select a game, I chose Spider-Man NES
+* The goal was to manipulate the NES game by getting it to have a perfect speed-run
+* Select the inputs for the machine to automatically run
+
