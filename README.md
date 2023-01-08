@@ -19,9 +19,23 @@
 
 ![](/images/SURVEYED_STATE.png)
 
-# [Project 3: Memory Address Editing - NES ROM](https://github.com/gloryc34/Speed-Run.git)
+# [Project 3: TAS Speed Run - NES ROM](https://github.com/gloryc34/Speed-Run.git)
 * Download and configure TAS (Tool-assisted Speedrun)
 * Select a game, I chose Spider-Man NES
 * The goal was to manipulate the NES game by getting it to have a perfect speed-run
 * Select the inputs for the machine to automatically run
 
+![](/images/tas1.png)
+
+![](/images/tas2.png)
+
+# [Project 4: Memory Address Editing - NES ROM](https://github.com/gloryc34/Memory-Editing.git)
+* Choose a NES game
+* Locate a game feature that can be manipulated
+* Use RAM search tool on NESHawk to find the location of the feature
+* Use a debugger and hex editor to find the address 
+* You will be able to create a cheat code for that address 
+
+![](/images/memory1.png)
+
+![](/images/memory2.png)
