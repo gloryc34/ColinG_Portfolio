@@ -40,7 +40,7 @@
 
 ![](/images/memory2.png)
 
-# [Project 5: Penetration Testing - SQLMap](https://github.com/gloryc34/Speed-Run.git)
+# [Project 5: Penetration Testing - SQLMap](https://github.com/gloryc34/SQLMap.git)
 * Develop an outline & step-by-step instructions for a person to follow along
 * Download Kali, Metasploitable 2, and Virtual Box
 * Configure network settings
