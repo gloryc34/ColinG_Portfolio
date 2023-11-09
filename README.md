@@ -1,5 +1,14 @@
 # Projects
 
+# [Project 1: Shiny Web Application](https://github.com/gloryc34/StockShinyApp.git)
+* Solo Assignment.
+* Creation of a Shiny Web App.
+* Used R for coding and shinyapps.io to deploy
+* Centered around stock monthly return data from 2014 through 2018
+* Two shiny inputs for 2 reactive graphs.
+* URL: https://gloryc.shinyapps.io/Glory_Assignment_3/
+
+  
 # [Project 1: Software Engineering - Website](https://github.com/gloryc34/ChrisParrattoPainting.com.git)
 * Five member team.
 * Creation of a new website for Chris Parratto's company, ChrisParrattoPainting.
