@@ -26,7 +26,11 @@
 
 ![](/images/clothianidin_production.png)
 
-# [Project 4: Software Engineering - Website](https://github.com/gloryc34/ChrisParrattoPainting.com.git)
+# [Project 4: Data Warehouse Assignments](https://github.com/gloryc34/Data_Warehousing.git)
+* Solo Assignments
+* Focuses on creating databases via SQL and R coding
+
+# [Project 5: Software Engineering - Website](https://github.com/gloryc34/ChrisParrattoPainting.com.git)
 * Five member team.
 * Creation of a new website for Chris Parratto's company, ChrisParrattoPainting.
 * Assisted in the back-end side (SQL & PHP).
@@ -35,7 +39,11 @@
 
 ![](/images/cpPainting.png)
 
-# [Project 5: Penetration Testing - SQLMap](https://github.com/gloryc34/SQLMap.git)
+# [Project 6: Data Science Coding](https://github.com/gloryc34/Data-Science-Coding.git)
+* Solo Assignments
+* Focuses on coding in Python and R
+
+# [Project 7: Penetration Testing - SQLMap](https://github.com/gloryc34/SQLMap.git)
 * Develop an outline & step-by-step instructions for a person to follow along
 * Download Kali, Metasploitable 2, and Virtual Box
 * Configure network settings
